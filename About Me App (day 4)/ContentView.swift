@@ -28,6 +28,7 @@ struct ContentView: View {
                     
                     Button("Fun Fact") {
                     textTitle = " I like to go to the beach"
+                        //this is a comment
                                         }
                     .font(.title2)
                     .buttonStyle(.borderedProminent)
